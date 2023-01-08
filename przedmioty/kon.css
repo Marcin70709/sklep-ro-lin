@@ -1,0 +1,12 @@
+*{
+    background:rgb(169, 146, 12);
+}
+   
+   .navbar-container{
+    background-color:rgb(22, 168, 48);
+    overflow: hidden;
+   }
+   .navbar{
+    background-color:rgb(22, 168, 48);
+    overflow: hidden;
+   }
